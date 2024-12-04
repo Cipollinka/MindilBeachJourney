@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AbhayaLibre-SemiBold.ttf",
+      "sha1": "676210093eae0db23b9b72124545c6372fb0237e"
+    },
+    {
+      "path": "src/assets/fonts/InknutAntiqua-Regular.ttf",
+      "sha1": "55cac314b62522af19c4e7ba38186e087635612e"
+    },
+    {
+      "path": "src/assets/fonts/Inter_18pt-Bold.ttf",
+      "sha1": "518a0361a245a66b49bc24ae0137f38328197bdc"
+    },
+    {
+      "path": "src/assets/fonts/Inter_18pt-Light.ttf",
+      "sha1": "6b041e6fc61656b930d8ef638a0b9d6a0ac8e084"
+    }
+  ]
+}
