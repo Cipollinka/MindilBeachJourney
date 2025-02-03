@@ -1,8 +1,8 @@
 import React from 'react';
-import MyStackComponent from './StackNavigator';
+import AppManager from './src/AppManager';
 
 function App() {
-  return <MyStackComponent />;
+  return <AppManager/>;
 }
 
 export default App;
